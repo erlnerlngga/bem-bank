@@ -1,4 +1,4 @@
-module github.com/erlnerlngga/bank
+module github.com/erlnerlngga/bem-bank
 
 go 1.20
 
